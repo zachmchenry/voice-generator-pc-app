@@ -191,7 +191,7 @@ Use the download button in the Quick Start section above.
 
 | **Build** | **Date** | **Notes** |
 | --- | --- | --- |
-| 2026.4 | 2026-10-24 | Latest stable, current release |
+| 2026.4 | 2026-10-25 | Latest stable, current release |
 | 2026.3 | earlier | Performance improvements |
 | 2026.2 | earlier | Bug fixes |
 | 2026.1 | earlier | First public build |
@@ -293,4 +293,4 @@ The app runs on almost anything, but the experience varies a lot.
 
 ---
 
-*voice-generator-pc-app · Updated 2026-10-24 · Shared under the MIT License*
+*voice-generator-pc-app · Updated 2026-10-25 · Shared under the MIT License*
